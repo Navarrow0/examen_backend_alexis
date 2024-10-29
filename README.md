@@ -187,8 +187,7 @@ Este documento proporciona las instrucciones necesarias para configurar y ejecut
 
 Si tienes preguntas o necesitas soporte, contacta a:
 
-- **Correo Electrónico**: [soporte@ejemplo.com](mailto:soporte@ejemplo.com)
-- **GitHub Issues**: [Issues del Proyecto](https://github.com/usuario/nombre-del-proyecto/issues)
+- **Correo Electrónico**: [alexisnavarrobiz@gmail.com](mailto:alexisnavarrobiz@gmail.com)
 
 ---
 
