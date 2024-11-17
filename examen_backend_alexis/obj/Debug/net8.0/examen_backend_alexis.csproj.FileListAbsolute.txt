@@ -124,3 +124,4 @@ C:\Users\eligo\source\repos\examen_backend_alexis\examen_backend_alexis\bin\Debu
 C:\Users\eligo\source\repos\examen_backend_alexis\examen_backend_alexis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\eligo\source\repos\examen_backend_alexis\examen_backend_alexis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\eligo\source\repos\examen_backend_alexis\examen_backend_alexis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eligo\source\repos\examen_backend_alexis\examen_backend_alexis\obj\Debug\net8.0\examen_backend_alexis.sourcelink.json
